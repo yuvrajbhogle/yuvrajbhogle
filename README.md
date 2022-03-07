@@ -38,7 +38,7 @@ if __name__ == '__main__':
     me = Yuvi014()
 ```
 
-## I'm listening too:
+## I'm listening to:
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pcjkyyym4asjp6a85zxnijwov&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pcjkyyym4asjp6a85zxnijwov&redirect=true)
