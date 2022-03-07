@@ -2,12 +2,13 @@
   <b>Yuvraj Bhogle</b>
 </h1>
 
+
+![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+
 Heya! I'm Yuvraj Bhogle, a Software Engineer currently living in Mumbai, India. I'm working at 
 <a href="https://coverfox.com">Coverfox</a>, 
 and learning programming through small projects  on the side.
 
-<br>
-![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 <br>
 
 <p>
