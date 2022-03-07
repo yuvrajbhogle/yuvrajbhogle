@@ -34,14 +34,16 @@ if __name__ == '__main__':
 ```
 
 ## I'm listening too:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pcjkyyym4asjp6a85zxnijwov&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pcjkyyym4asjp6a85zxnijwov&redirect=true)
 
 <!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pcjkyyym4asjp6a85zxnijwov&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pcjkyyym4asjp6a85zxnijwov&redirect=true)
+-->
+
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/user/pcjkyyym4asjp6a85zxnijwov">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
-</div> -->
+</div>
 
 
 ## My Statistics
