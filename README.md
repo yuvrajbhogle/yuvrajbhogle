@@ -3,7 +3,9 @@
 </h1>
 
 
-![](https://github.com/yuvrajbhogle/yuvrajbhogle/blob/main/Yuvraj-Illustration-01.gif)
+<div align="center">
+  <img src="https://github.com/yuvrajbhogle/yuvrajbhogle/blob/main/Yuvraj-Illustration-01.gif" width="50%"/>
+</div>
 
 Heya! I'm Yuvraj Bhogle, a Software Engineer currently living in Mumbai, India. I'm working at 
 <a href="https://coverfox.com">Coverfox</a>, 
