@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/yuvrajbhogle/yuvrajbhogle/blob/main/Yuvraj-Illustration-02.gif" width="50%"/>
+  <img src="https://github.com/yuvrajbhogle/yuvrajbhogle/raw/main/Yuvraj-Illustration-02.gif" width="50%"/>
 </div>
 
 Heya! I'm Yuvraj Bhogle, a Software Engineer currently living in Mumbai, India. I'm working at 
