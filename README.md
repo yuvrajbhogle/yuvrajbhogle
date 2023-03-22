@@ -4,6 +4,7 @@
 
 
 <div align="center">
+![gif](/Yuvraj-Illustration-02.gif)
   <img src="https://github.com/yuvrajbhogle/yuvrajbhogle/raw/main/Yuvraj-Illustration-02.gif" width="50%"/>
 </div>
 
