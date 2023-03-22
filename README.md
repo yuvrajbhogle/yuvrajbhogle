@@ -4,7 +4,6 @@
 
 
 <div align="center">
-  ![alt text](http://url/to/img.png)
   <img src="https://github.com/yuvrajbhogle/yuvrajbhogle/raw/main/Yuvraj-Illustration-02.gif" width="50%"/>
 </div>
 
